@@ -1,0 +1,330 @@
+{
+  "export_date": "2026-10-09",
+  "site_version": 33,
+  "source_commit": "60cd5ba0f133814c162b75281d24faa5953faf69",
+  "original_url": "https://portfolio.r4dewangan.chatgpt.site/",
+  "content_preserved": true,
+  "deployment_target": "Vercel static hosting",
+  "website_files": [
+    {
+      "path": "dist/app.js",
+      "bytes": 14248,
+      "sha256": "1e422bec962795b4ef4e69b1eb53fd3991484cd688e091cd23f6c7a3854855b8"
+    },
+    {
+      "path": "dist/assets/Rahul_Dewangan_Resume.pdf",
+      "bytes": 33527,
+      "sha256": "088c66c113b2ea1dce850caf94b58daddd93cec07d4f9ddfd4ebd42ec956c43b"
+    },
+    {
+      "path": "dist/assets/beacon-case-preview.png",
+      "bytes": 269245,
+      "sha256": "5a306b907500e2061555addbde63a5bc2de696430e0af9d8d6691376cd095f6e"
+    },
+    {
+      "path": "dist/assets/card-art/change-evidence.svg",
+      "bytes": 720,
+      "sha256": "5bb2ec274562b359be3c00fa47c06473f02cec91b61fa305269b76a11ebda4d3"
+    },
+    {
+      "path": "dist/assets/card-art/cmc-matrix.svg",
+      "bytes": 596,
+      "sha256": "3d3a94330c0fe17f32ea332a2ff9fe85e2bacb4ce79c004fcf399e0985f66459"
+    },
+    {
+      "path": "dist/assets/card-art/ctd-pathway.svg",
+      "bytes": 596,
+      "sha256": "1197b3536e7e8e1cba7bc3eafd0b3fe6fb88194b3a9098dd3bc90baa81d7b93f"
+    },
+    {
+      "path": "dist/assets/card-art/digital-thread.svg",
+      "bytes": 790,
+      "sha256": "112429885ea86ecb285951d7468140c79a91b9c8f8cb13ed4ae9e5161b935d82"
+    },
+    {
+      "path": "dist/assets/card-art/human-boundary.svg",
+      "bytes": 516,
+      "sha256": "dfc75536803efe908c646dd1f67efc53e41a298d47e591e5c81d050ddbdd29e9"
+    },
+    {
+      "path": "dist/assets/diagrams/BEACON_RIS_Architecture.png",
+      "bytes": 602875,
+      "sha256": "8f39aecf5fed9abaac151597b481d7b71e3a8e764b5f9a79be651a113e7621f8"
+    },
+    {
+      "path": "dist/assets/diagrams/BEACON_RIS_Architecture.svg",
+      "bytes": 17608,
+      "sha256": "052164ec6bbfae4a6d0c5de5218a843c7c7795e30b2c9bb0652fd82be04ad689"
+    },
+    {
+      "path": "dist/assets/docs/BEACON_Case_01_FDA_Q9R1.pdf",
+      "bytes": 70367,
+      "sha256": "e4575d03dd0b6bb28b2a75d9325cb21a41f4c3559c961da57425392254008d8c"
+    },
+    {
+      "path": "dist/assets/docs/BEACON_Case_02_TGA_Source_Gap.pdf",
+      "bytes": 69787,
+      "sha256": "4e38c35a4a0c2a9ac05e694c6e9dad26c993cdca69456ac1d6c62786a124faf0"
+    },
+    {
+      "path": "dist/assets/docs/BEACON_Case_03_Draft_Safety_Gate.pdf",
+      "bytes": 69891,
+      "sha256": "e7536965340486c0c2b1c616d25f4fe1c88f4b641a50b9f4be2925f84c4760be"
+    },
+    {
+      "path": "dist/assets/docs/BEACON_RIS_Product_Architecture.pdf",
+      "bytes": 480896,
+      "sha256": "85ea3b89d51772b4bd77cc48e40d39c413082b1dc96fd721ac05dd56dcbf86de"
+    },
+    {
+      "path": "dist/assets/docs/Bharat_VPop_Controlled_Preprint.pdf",
+      "bytes": 151354,
+      "sha256": "5c304ef9cb8db627cb70b4d66aa8ec580a87bc372bcac840e5bc708be36c6502"
+    },
+    {
+      "path": "dist/assets/docs/CMC_Gap_Assessment.pdf",
+      "bytes": 49131,
+      "sha256": "b4fd1ca23dd1854bf62f17a19d672bcc157d636bdffc7d0db64f860666b86f42"
+    },
+    {
+      "path": "dist/assets/docs/ClaimGraph_RD_Controlled_Preprint.pdf",
+      "bytes": 126376,
+      "sha256": "bcbe416ed9dde1a220651a48db144aa4daae0439cc826c2799403de0d3e943ef"
+    },
+    {
+      "path": "dist/assets/docs/Conjunctivitis_Review.html",
+      "bytes": 65714,
+      "sha256": "9b0250adf07805025ce522c0812dfef937981a350067ff12f43cd92aab0cd0a3"
+    },
+    {
+      "path": "dist/assets/docs/FORGE_Product_Architecture.pdf",
+      "bytes": 496636,
+      "sha256": "168735413e552ad8be15657ac7a982325e8b2acc1078c22c374349919d6e7b1d"
+    },
+    {
+      "path": "dist/assets/docs/LEDGER_Q_Integrated_Specification.pdf",
+      "bytes": 85905,
+      "sha256": "8c8edf4bff634a8ae97b8efe4e6b938a9a4225b4059ef6fb176d4c5fea011912"
+    },
+    {
+      "path": "dist/assets/docs/LEDGER_Q_Ten_Step_Checklist.pdf",
+      "bytes": 64059,
+      "sha256": "b21b20e52da792b7b4ef095d46351e41634eec96d2470b91fd9bc03c23414539"
+    },
+    {
+      "path": "dist/assets/docs/PRAMANEX_Bharat_VPop_DOI_23238917.pdf",
+      "bytes": 151354,
+      "sha256": "5c304ef9cb8db627cb70b4d66aa8ec580a87bc372bcac840e5bc708be36c6502"
+    },
+    {
+      "path": "dist/assets/docs/PRAMANEX_ClaimGraph_RD_DOI_23239242.pdf",
+      "bytes": 126376,
+      "sha256": "bcbe416ed9dde1a220651a48db144aa4daae0439cc826c2799403de0d3e943ef"
+    },
+    {
+      "path": "dist/assets/docs/PRAMANEX_TRACE_DOI_23096983.pdf",
+      "bytes": 107301,
+      "sha256": "1878ff2f10d7633ead5ca82786251e8b87f9a9856eda5c09a7cd6689b8534aca"
+    },
+    {
+      "path": "dist/assets/docs/Pharmaceutical_Social_Media_Marketing.docx",
+      "bytes": 611614,
+      "sha256": "fa38a25abf279213d06e43dbc40fa3bb4c8003af13a0364f73e5ad4a6a977dc0"
+    },
+    {
+      "path": "dist/assets/docs/Pharmaceutical_Social_Media_Review.html",
+      "bytes": 104839,
+      "sha256": "59a6bf93fb63abc40331273995629f17d94f336f3c3d3f15af423dd57e53de19"
+    },
+    {
+      "path": "dist/assets/docs/Rahul_Dewangan_CV.pdf",
+      "bytes": 8612,
+      "sha256": "94f069b404e39cbf050663ab10ac88dcee1d9a20082d66d1646d885ba3ee9c66"
+    },
+    {
+      "path": "dist/assets/docs/Rahul_Dewangan_Resume.pdf",
+      "bytes": 33527,
+      "sha256": "088c66c113b2ea1dce850caf94b58daddd93cec07d4f9ddfd4ebd42ec956c43b"
+    },
+    {
+      "path": "dist/assets/docs/Regulatory_Change_Impact_Assessment.pdf",
+      "bytes": 48889,
+      "sha256": "f5b6c4ce836d7908f03518b77b40376596844a1173f197301ef9eed57fb18287"
+    },
+    {
+      "path": "dist/assets/docs/Regulatory_Decision_Note.pdf",
+      "bytes": 44560,
+      "sha256": "555d094fa66e29e4e632312bb2147372eefdb28e7daf65c69918b062b9479858"
+    },
+    {
+      "path": "dist/assets/docs/Regulatory_Strategy_CTD_Note.pdf",
+      "bytes": 44592,
+      "sha256": "470386a5d25381a77a4570c15182ff5c0120362c442b0886e094b6d1558cff75"
+    },
+    {
+      "path": "dist/assets/docs/Reviewing_Viral_Conjunctivitis.docx",
+      "bytes": 199575,
+      "sha256": "b921263743d953d4e5a320b7d73d13a7e7646e0a6c502d50c80d3f30e0f6745c"
+    },
+    {
+      "path": "dist/assets/docs/TRACE_Public_White_Paper.pdf",
+      "bytes": 107301,
+      "sha256": "1878ff2f10d7633ead5ca82786251e8b87f9a9856eda5c09a7cd6689b8534aca"
+    },
+    {
+      "path": "dist/assets/document-reader.css",
+      "bytes": 1596,
+      "sha256": "2568bff656c65de2fe9931640fbd3cedebf1880f4ad6fe74d3ce9749a66f2707"
+    },
+    {
+      "path": "dist/assets/fonts/Anton-Regular.ttf",
+      "bytes": 130324,
+      "sha256": "fd9301f2837c99df2be07cc7f0be66e9470f5354d8fcf1606027c67fcd637a53"
+    },
+    {
+      "path": "dist/assets/fonts/Anton-Regular.woff",
+      "bytes": 63612,
+      "sha256": "1424b6b17ee00f5217173da621867a108d4cedeba9779aca5e6ad424cbd51175"
+    },
+    {
+      "path": "dist/assets/forge-case-preview.webp",
+      "bytes": 43348,
+      "sha256": "2b8eca32336bf98b145b8397f477bb3fcd2c659fe80904cd3fba605ec14c3c6d"
+    },
+    {
+      "path": "dist/assets/hero-evidence-platform.webp",
+      "bytes": 124604,
+      "sha256": "66e4b5b3e80a46bc7eb805d5a4cf9579d7d11bf0509f729dba19958212a3a2c7"
+    },
+    {
+      "path": "dist/assets/ledger-case-preview.webp",
+      "bytes": 46474,
+      "sha256": "bb59955717227907cf08195d2b3d2de3d9272e28fa65402a52743648a0518754"
+    },
+    {
+      "path": "dist/assets/previews/Bharat_VPop_Controlled_Preprint.webp",
+      "bytes": 33220,
+      "sha256": "8f1cdcc7c308723ad5ccc57ecf84c4969a4699143dfedf883718c066e35eba9f"
+    },
+    {
+      "path": "dist/assets/previews/CMC_Gap_Assessment.webp",
+      "bytes": 29406,
+      "sha256": "e919fd3c6aea5cd9ac4c793373a2286389bb391daa94516ca1f2230bf32a76e6"
+    },
+    {
+      "path": "dist/assets/previews/ClaimGraph_RD_Controlled_Preprint.webp",
+      "bytes": 27522,
+      "sha256": "0bdb88de29b0bc5496b8f2e53cc5239c6a631e3d01adb767bd4c9049d863679c"
+    },
+    {
+      "path": "dist/assets/previews/Conjunctivitis_Review-figure-326866778124620283.jpg",
+      "bytes": 17109,
+      "sha256": "2d3ef1c9598838441ff5948843b6a9096af2ac39c7a738e8be595be2618abcbd"
+    },
+    {
+      "path": "dist/assets/previews/Conjunctivitis_Review-figure-4859583520595490486.jpg",
+      "bytes": 42911,
+      "sha256": "7715060c929457a00a13ad732b5165dd26323a48403d18da692908ed111e7063"
+    },
+    {
+      "path": "dist/assets/previews/Conjunctivitis_Review-figure-4914356303478357055.jpg",
+      "bytes": 28809,
+      "sha256": "24be58ef47b5a67d2cfb30d32dd6dd4ad874d54995676a618547a59030ab85c4"
+    },
+    {
+      "path": "dist/assets/previews/Conjunctivitis_Review-figure-7898258847167362453.jpg",
+      "bytes": 21340,
+      "sha256": "473836d50528fc6b6c6975fce3358032fcf92152ea17127d779572b9720eaffe"
+    },
+    {
+      "path": "dist/assets/previews/Conjunctivitis_Review-figure-991225835696142441.jpg",
+      "bytes": 24990,
+      "sha256": "915a4712b32ae7a433ca99da5b709b4f5eec2c33ab5a6a2d0a1e9d35c56ae44b"
+    },
+    {
+      "path": "dist/assets/previews/PRAMANEX_Bharat_VPop_DOI_23238917.webp",
+      "bytes": 79294,
+      "sha256": "368c00ac5423f225f1825c7d56a71128fa4c2e0b4b4f9129fdcb05909038e04a"
+    },
+    {
+      "path": "dist/assets/previews/PRAMANEX_ClaimGraph_RD_DOI_23239242.webp",
+      "bytes": 64266,
+      "sha256": "e9f9532917d2aa35ec4b0ee20c8f3adfd1c77c24f4b3a028c59c348ffd3108ad"
+    },
+    {
+      "path": "dist/assets/previews/PRAMANEX_TRACE_DOI_23096983.webp",
+      "bytes": 73830,
+      "sha256": "3d06b263c8f187b23e233e5301371f82a02f3ff3963c253f9f8fde8e39043456"
+    },
+    {
+      "path": "dist/assets/previews/Pharmaceutical_Social_Media_Review-figure-1931946242793233546.jpg",
+      "bytes": 28334,
+      "sha256": "dbc88e2734b6991d9da9fdda58b4cef2c2f975e91b59747fa485b1cacb7d1fcb"
+    },
+    {
+      "path": "dist/assets/previews/Pharmaceutical_Social_Media_Review-figure-326866778124620283.jpg",
+      "bytes": 266563,
+      "sha256": "1e6d877f18b3dd2a02ddf9795ef2c91716d550067852fb80e1002df5eeecd9a8"
+    },
+    {
+      "path": "dist/assets/previews/Pharmaceutical_Social_Media_Review-figure-4166300972761061823.png",
+      "bytes": 84559,
+      "sha256": "20c0487a78b02bada52f71ee52965a4be1ab5808e8dbd347f23b722afea5c485"
+    },
+    {
+      "path": "dist/assets/previews/Pharmaceutical_Social_Media_Review-figure-4914356303478357055.png",
+      "bytes": 44433,
+      "sha256": "4b9a3e814899cfd3a9bf7d645a52c4ad8f317f072a9729743f0d103cc554454c"
+    },
+    {
+      "path": "dist/assets/previews/Pharmaceutical_Social_Media_Review-figure-991225835696142441.png",
+      "bytes": 117245,
+      "sha256": "8b8e8ed2970c2bca958ca34f070322060de289c2ac2767d41423ad59c14f07ac"
+    },
+    {
+      "path": "dist/assets/previews/Rahul_Dewangan_Resume.webp",
+      "bytes": 153248,
+      "sha256": "68f0d883a4815a84f3506b38150861c772563c2bb169dea76ef9ea23a53c8616"
+    },
+    {
+      "path": "dist/assets/previews/Regulatory_Change_Impact_Assessment.webp",
+      "bytes": 30356,
+      "sha256": "67a54c5bd5b80202c11d4d442ce9c885f767b0ac95909c5dbe416ecd3ce7d765"
+    },
+    {
+      "path": "dist/assets/previews/Regulatory_Strategy_CTD_Note.webp",
+      "bytes": 39106,
+      "sha256": "5492ae4b6eb650bafcf78fa02435d07ee1a93ff8c29f4c33fb59a11f1952dedf"
+    },
+    {
+      "path": "dist/assets/previews/TRACE_Public_White_Paper.webp",
+      "bytes": 31864,
+      "sha256": "6a596e65e1179c03d6d067c4655f65157dfdcee05f97e92e2b9c65800c87155c"
+    },
+    {
+      "path": "dist/assets/previews/ledger-working-proof.webp",
+      "bytes": 32052,
+      "sha256": "c7fd2ae85acab988bd2f46ac779c7b6528524218ad04324480d4ad3fdef06dfa"
+    },
+    {
+      "path": "dist/assets/rahul-formal-transparent.webp",
+      "bytes": 256962,
+      "sha256": "c77e90710a7ca17a57f9dcbe270891e5d5f4fe8ff3ce932b5c8cc64b967f0a12"
+    },
+    {
+      "path": "dist/assets/rahul-formal.webp",
+      "bytes": 109506,
+      "sha256": "ca278e1d570dfc6521e2d242abf12bf56c913e41317e3ba626b5a851ce6fef5a"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 80778,
+      "sha256": "28a5e7fa21d227c7d76bdcb47a4ba602a9fc6f18c94bd0580fc88fe7028c0eae"
+    },
+    {
+      "path": "dist/styles.css",
+      "bytes": 85915,
+      "sha256": "f449938394326038d492ad07d82ffea06b6aaa33f07a19f0af8bfe77a6a5ede3"
+    }
+  ]
+}
