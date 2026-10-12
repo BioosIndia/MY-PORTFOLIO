@@ -1,0 +1,23 @@
+{
+  "controlled_ledger_update_present": true,
+  "existing_anchor_destinations_preserved": true,
+  "local_references_checked": 88,
+  "missing": [],
+  "doi_editions_verified": 3,
+  "legacy_pdf_paths_updated": true,
+  "research_meanings_preserved": true,
+  "images_with_dimensions": 24,
+  "representative_contrast_ratios": {
+    "Body": 7.43,
+    "Primary button": 9.43,
+    "Secondary button": 4.71,
+    "Cyan button": 8.79,
+    "Research text": 7.97,
+    "Start card button": 4.95,
+    "Preview heading": 10.03,
+    "Preview note": 6.41,
+    "Connected paths": 10.27
+  },
+  "html_css_balanced": true,
+  "scope": "Static source gates; not browser visual QA"
+}

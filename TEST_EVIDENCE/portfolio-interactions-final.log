@@ -1,0 +1,25 @@
+PASS Keyboard menu opens to first link; Escape closes and restores focus
+PASS Cancel from a mobile navigation link returns to the visible menu button
+PASS PDF requires confirmation; cancel opens nothing and restores origin
+PASS Confirmed PDF opens the actual local asset without opener access
+PASS Architecture image gets an image-specific destination description
+PASS Middle-click also asks for permission before opening the external site
+PASS Section confirmation preserves its real fragment and moves keyboard focus
+PASS Tab and Shift-Tab remain inside the open confirmation
+PASS Native Escape cancellation closes dialog and releases scroll lock
+PASS TRACE confirmed paper opens its own updated DOI PDF
+PASS TRACE DOI record retains separate external confirmation and cancel
+PASS Bharat-VPop confirmed paper opens its own updated DOI PDF
+PASS Bharat-VPop DOI record retains separate external confirmation and cancel
+PASS ClaimGraph-RD confirmed paper opens its own updated DOI PDF
+PASS ClaimGraph-RD DOI record retains separate external confirmation and cancel
+PASS Confirmed download retains the actual supplied resume destination
+PASS Outside pointer dismisses the mobile navigation
+PASS Viewport change does not leave focus on a hidden navigation link
+PASS Scroll reveal returns on upward and downward re-entry
+PASS Restricted project access is explained before navigation and cancellation remains safe
+PASS Hero LEDGER-Q identifies the correct product and verification stays above the fold
+PASS System reduced-motion preference pauses decorative hero without obsolete action controls
+PASS Hidden page pauses background animation work and restores when visible
+PASS Off-screen scenes pause; visible scenes resume
+{"passed":24,"scope":"Application event handlers; not browser/device visual QA"}
